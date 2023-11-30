@@ -8,7 +8,7 @@
 1. [Реализация](#реализация)
 2. [Информация](#информация)
 
-![abbrevia](misc/images/Abbrevia.png)
+![abbrevia](misc/images/Abbrevia.jpg)
 
 ## Введение
 
